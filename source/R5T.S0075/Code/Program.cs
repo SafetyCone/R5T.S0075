@@ -7,7 +7,8 @@ namespace R5T.S0075
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            //LocalGitRepositoryScripts.Instance.Get_RepositoryDirectoryPath_ForPathInRepository();
+            LocalGitRepositoryScripts.Instance.Get_RepositoryUrl();
         }
     }
 }
